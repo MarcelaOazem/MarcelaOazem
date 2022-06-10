@@ -1,7 +1,7 @@
 ### Olá, eu sou a Marcela Oazem 👋
 
 - 🔭 Iniciando em Front-end
-- 🌱 Estudando HTML e CSS
+- 🌱 Estudando HTML, CSS e JavaScript
 - 😄 Pronomes: Ela/Dela
 
 <div align = "centro" >
